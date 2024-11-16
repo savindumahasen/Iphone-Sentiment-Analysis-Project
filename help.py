@@ -3,14 +3,15 @@ import numpy as np
 import re
 import string
 import pickle
+import tensorflow as tf
 
 from nltk.stem import PorterStemmer
 
 ps = PorterStemmer()
 
-## Load the model
-with open ('static/model/model.pkl', 'rb') as f:
-    model1 = pickle.load(f)
+
+model_path = './notebook/new_model_1.h5'
+model = pickle.load(open(model_path, 'rb'))
 
 
 ## Load the stop words
@@ -57,7 +58,7 @@ def vectorizer(ds):
     return vectorizer_list_new
 
 def get_prediction(vectorizer_text):
-    predictions = model1.predict(vectorizer_text)
+    predictions = model.predict(vectorizer_text)
     if predictions[0] ==1:
         return "Negative"
     else:
