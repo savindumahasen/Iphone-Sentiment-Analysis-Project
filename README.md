@@ -19,6 +19,32 @@ This is  a deep learning project main purpose of this  project is analyze the cu
 
 ![Sample UI 8](https://github.com/user-attachments/assets/9f0d7f95-646b-4e9a-ab53-7ce778734e18)
 
+![Sample UI9](https://github.com/user-attachments/assets/8c5494e4-09a6-4160-a871-f5408ff953a7)
+
+![SampleUI10](https://github.com/user-attachments/assets/b35f48c7-5575-4e1a-82ef-e2e71fc468ca)
+
+![Sample Image11](https://github.com/user-attachments/assets/879c75c7-7c87-4802-92ab-62bbca28ec4b)
+
+![ampleUI12](https://github.com/user-attachments/assets/ba068984-6578-45cd-9816-ab8a137d26b0)
+
+![SampleUI13](https://github.com/user-attachments/assets/186ebdd1-1ac7-4072-a5be-c36b18ffd12a)
+
+![SampleUI14](https://github.com/user-attachments/assets/f70756b3-5da6-41a9-a65e-afd95df63d36)
+
+![SampleUI15](https://github.com/user-attachments/assets/494bf26a-aed3-4a5e-bba6-6ff64c6e4452)
+
+![SampleUI16](https://github.com/user-attachments/assets/68238e1b-5457-4525-8782-fd9e2ebf39f2)
+
+![SampleUI17](https://github.com/user-attachments/assets/fe2c464a-1b09-4bdd-8d62-b1c096cfa0ab)
+
+
+
+
+
+
+
+
+
 
 
 
